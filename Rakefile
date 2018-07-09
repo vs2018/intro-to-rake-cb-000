@@ -1,4 +1,4 @@
-desc 'outputs hello to the terminal'
+desc 'outputs hello to the terminall'
 task :hello do
   puts "hello from Rake!"
 end
